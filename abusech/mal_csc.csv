@@ -1,11 +1,3 @@
-################################################################
-# MalwareBazaar Code Signing Certificate Blocklist (CSCB)      #
-# Last updated: 2023-08-24 09:17:17 UTC                        #
-#                                                              #
-# Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
-# For questions please contact bazaar [at] abuse.ch            #
-################################################################
-#
 "time_stamp_utc","serial_number","thumbprint","thumbprint_algorithm","subject_cn","issuer_cn","valid_from","valid_to","Reason"
 "2023-08-24 09:17:17","08d4352185317271c1cec9d05c279af7","ec5200a97ca26f55a1ab0ad7923d9447fea473cc2e42dca69a70defe014624d6","SHA256","Retalit LLC","DigiCert EV Code Signing CA (SHA2)","2020-08-05T00:00:00Z","2021-07-12T12:00:00Z","BuerLoader"
 "2023-08-23 08:13:21","90212473c706f523fe84bdb9a78a01f4","6b18e9451c2e93564ed255e754b7e1cf0f817abda93015b21ae5e247c75f9d03","SHA256","DEMUS, OOO","COMODO RSA Code Signing CA","2017-07-17T00:00:00Z","2018-07-17T23:59:59Z","Cerber"
@@ -356,4 +348,3 @@
 "2020-11-02 07:52:50","B1AEA98BF0CE789B6C952310F14EDDE0","28324A9746EDBDB41C9579032D6EB6AB4FD3E0906F250D4858CE9C5FE5E97469","SHA256","Absolut LLC","Sectigo RSA Code Signing CA","Oct  1 00:00:00 2020 GMT","Oct  1 23:59:59 2021 GMT","BazaLoader"
 "2020-11-02 07:52:05","F097E59809AE2E771B7B9AE5FC3408D7","22AD7DF275C8B5036EA05B95CE5DA768049BD2B21993549EED3A8A5ADA990B1E","SHA256","ABEL RENOVATIONS","Sectigo RSA Code Signing CA","Oct  7 00:00:00 2020 GMT","Oct  7 23:59:59 2021 GMT","Quakbot"
 "2020-11-02 07:47:52","51CD5393514F7ACE2B407C3DBFB09D8D","D497A1698F4B9A558DED6CFD8BC4B1D881EEB3C04F349B215FFA89946F63C7F0","SHA256","APPI CZ a.s","Sectigo RSA Code Signing CA","Oct 23 00:00:00 2020 GMT","Oct 23 23:59:59 2021 GMT","Quakbot"
-# Number of entries: 349
